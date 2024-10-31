@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FILLING_IN_POLYGONS", "FILLING_IN_POLYGONS\FILLING_IN_POLYGONS.csproj", "{74577C81-8DC4-418C-98D1-FB70DE01A905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74577C81-8DC4-418C-98D1-FB70DE01A905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74577C81-8DC4-418C-98D1-FB70DE01A905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74577C81-8DC4-418C-98D1-FB70DE01A905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74577C81-8DC4-418C-98D1-FB70DE01A905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D24655-DADF-492C-B0BE-0F964F3D9E83}
+	EndGlobalSection
+EndGlobal
